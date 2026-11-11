@@ -1,0 +1,18 @@
+{
+  "corte_challenger": 0.1463933038350136,
+  "valor_champion_entrenamiento": 24840215.07,
+  "valor_challenger_entrenamiento": 31938387.18,
+  "diferencia_valor_por_cliente": 275.1579333333332,
+  "intervalo_95": [
+    15.351519666666613,
+    542.5850303333335
+  ],
+  "supuestos": {
+    "LGD": 0.7,
+    "costo_intervencion": 150.0,
+    "efectividad": 0.3,
+    "fondeo_mensual": 0.007,
+    "costo_operativo_mensual": 0.005,
+    "remuestreos_bootstrap": 2000
+  }
+}

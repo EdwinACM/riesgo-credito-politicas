@@ -1,0 +1,9 @@
+banda_pd,uso_linea,acción,clientes,incumplimiento_observado,exposicion,pct_clientes,responsable
+menos de 8%,50% o más,sin acción,10,0.1,2344795,0.0011111111111111111,ninguno
+menos de 8%,menos de 50%,sin acción,296,0.12837837837837837,4004922,0.03288888888888889,ninguno
+8 a 20%,50% o más,alerta preventiva,2273,0.14034315882094148,259116330,0.25255555555555553,mensaje automático
+8 a 20%,menos de 50%,monitoreo,3688,0.1220173535791757,84596973,0.4097777777777778,analista de portafolio
+20 a 40%,50% o más,cobranza preventiva y sin aumentos de línea,656,0.32164634146341464,48730517,0.07288888888888889,ejecutivo de cobranza
+20 a 40%,menos de 50%,cobranza preventiva,885,0.2790960451977401,7208711,0.09833333333333333,ejecutivo de cobranza
+40% o más,50% o más,revisión de línea y contacto prioritario,758,0.6029023746701847,47826105,0.08422222222222223,comité de riesgos
+40% o más,menos de 50%,revisión de línea y contacto prioritario,434,0.6175115207373272,7906423,0.04822222222222222,comité de riesgos
