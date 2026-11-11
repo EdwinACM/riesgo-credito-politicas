@@ -44,6 +44,8 @@ python src/ejecutar_todo.py
 python -m pytest
 ```
 
+Una acción de GitHub corre las pruebas en cada cambio. El paso 0 verifica la suma SHA-256 de la base descargada antes de usarla.
+
 Los pasos, en orden: `paso1_diagnostico.py`, `paso2_segmentacion.py`, `paso3_modelo_pd.py` y `paso4_politica.py`. Los resultados quedan en `resultados/` como tablas CSV y cuatro gráficas.
 
 ## Documentación de decisiones
