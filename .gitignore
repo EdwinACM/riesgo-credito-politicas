@@ -1,0 +1,11 @@
+# Datos originales descargados (se regeneran con paso0)
+datos/uci_default.zip
+datos/*.xls
+
+# Resultados intermedios pesados (se regeneran con ejecutar_todo.py)
+resultados/predicciones_*.csv
+
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store

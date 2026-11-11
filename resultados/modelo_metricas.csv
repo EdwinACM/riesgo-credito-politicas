@@ -1,0 +1,9 @@
+medida,valor
+AUC en prueba,0.7334472883719354
+Gini en prueba,0.4668945767438708
+KS en prueba,0.3887025786391164
+Brier en prueba,0.1439498760167978
+AUC solo con mora de septiembre,0.6833310175429897
+AUC en validación cruzada (entrenamiento),0.7498540489719652
+Incumplimiento observado en prueba,0.2212222222222222
+PD promedio predicha en prueba,0.21938060766930753
